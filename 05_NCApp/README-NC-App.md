@@ -7,6 +7,23 @@ Moon NC Management System is a Microsoft Power Apps Canvas application designed 
 The application brings NC intake, corrective-action follow-up, operational visibility and user administration into a single workspace.
 
 ---
+## App Gallery
+
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/3210c8dc-e473-40d1-8b43-1e5f1a00ca06" />
+<img width="975" height="552" alt="image" src="https://github.com/user-attachments/assets/d6e0e933-a349-4b88-8f4d-864798be788f" />
+<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/9fb1153d-4dfc-488d-a71b-5ee0e9ac0bc2" />
+<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/d9081ca9-6ad5-4c86-b1f6-f577a81c2269" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/e1ad017e-c21f-4bc8-8cc4-985d69c4c40d" />
+<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/84d3aa87-15bc-4fd5-be8d-7e19b2afc501" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/3c3c5326-79a1-457c-be1b-c7e0d3267e48" />
+<img width="972" height="546" alt="image" src="https://github.com/user-attachments/assets/a7f5c8c1-bbad-4123-b0d9-cdbf83c65eba" />
+<img width="1015" height="568" alt="image" src="https://github.com/user-attachments/assets/2872a013-c0d3-4e8f-932c-d3f9181b84ec" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/3435cc6c-47b9-453b-a7a0-717c804d23e8" />
+<img width="975" height="552" alt="image" src="https://github.com/user-attachments/assets/9c2122b3-212c-4aad-868a-6eeb7ceb53f5" />
+<img width="975" height="551" alt="image" src="https://github.com/user-attachments/assets/d91837c4-2454-4c61-a90e-15d9bea9dcbb" />
+<img width="975" height="551" alt="image" src="https://github.com/user-attachments/assets/2d1422cf-67b9-4513-97b7-dce3d3a8a521" />
+<img width="975" height="552" alt="image" src="https://github.com/user-attachments/assets/16d9d6ad-fb7d-4961-b604-c02d3054d78d" />
+<img width="975" height="540" alt="image" src="https://github.com/user-attachments/assets/162ac513-ae40-4f87-839c-4b9d4e25c5ea" />
 
 ## 01. Project Overview
 
