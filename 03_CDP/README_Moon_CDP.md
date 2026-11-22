@@ -12,18 +12,16 @@ The application is designed to help Moon maintain consistent lifecycle records, 
 
 The screenshots below are taken from the supplied application documentation. Add the corresponding image files to `Screenshots/` and update the paths if you rename them.
 
-| Home & onboarding | Resource search |
-|---|---|
-| ![Home and onboarding](Screenshots/home-and-onboarding.png) | ![Manage user search](Screenshots/manage-user-search.png) |
-
-| Resource details & lifecycle actions | Client data protection acknowledgement |
-|---|---|
-| ![Resource details](Screenshots/resource-details.png) | ![CDP acknowledgement](Screenshots/cdp-acknowledgement.png) |
-
-| Project roll-off and request management |
-|---|
-| ![Raise new request](Screenshots/raise-new-request.png) |
-
+ <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/abf3539a-80a3-41fa-93a7-bbd45a644924" />
+ <img width="975" height="543" alt="image" src="https://github.com/user-attachments/assets/e1d28480-5e15-43cb-b598-ce1d378d056e" />
+ <img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/ec7825e6-68cd-4b21-98be-3e2903150141" />
+ <img width="975" height="555" alt="image" src="https://github.com/user-attachments/assets/7448ca3b-b58b-4a84-8c52-8fb97c24231c" />
+<img width="975" height="554" alt="image" src="https://github.com/user-attachments/assets/f3b013bd-66fd-46b6-94ec-a54f705a2297" />
+<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/ca6d35e2-8a76-4838-81bf-dbac60f941e6" />
+<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/c704dd7c-382e-4eac-8119-174e9e685c27" />
+<img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/c304cb18-a6e7-4a30-810b-acbecb80273d" />
+<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/625764f2-8082-4670-9d00-0a61b3a3afac" />
+ 
 ---
 
 ## 01. Project Overview
